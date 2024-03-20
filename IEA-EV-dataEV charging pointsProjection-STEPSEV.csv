@@ -1,0 +1,61 @@
+region,category,parameter,mode,powertrain,year,unit,value
+China,Projection-STEPS,EV charging points,EV,Publicly available fast,2020,charging points,310000
+China,Projection-STEPS,EV charging points,EV,Publicly available slow,2020,charging points,500000
+China,Projection-STEPS,EV charging points,EV,Publicly available fast,2021,charging points,470000
+China,Projection-STEPS,EV charging points,EV,Publicly available slow,2021,charging points,680000
+China,Projection-STEPS,EV charging points,EV,Publicly available fast,2022,charging points,760000
+China,Projection-STEPS,EV charging points,EV,Publicly available slow,2022,charging points,1000000
+China,Projection-STEPS,EV charging points,EV,Publicly available fast,2025,charging points,2000000
+China,Projection-STEPS,EV charging points,EV,Publicly available slow,2025,charging points,2400000
+China,Projection-STEPS,EV charging points,EV,Publicly available fast,2030,charging points,3600000
+China,Projection-STEPS,EV charging points,EV,Publicly available slow,2030,charging points,4000000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available fast,2020,charging points,32000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available slow,2020,charging points,220000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available fast,2021,charging points,46000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available slow,2021,charging points,310000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available fast,2022,charging points,68000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available slow,2022,charging points,450000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available fast,2025,charging points,200000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available slow,2025,charging points,1000000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available fast,2030,charging points,480000
+Europe,Projection-STEPS,EV charging points,EV,Publicly available slow,2030,charging points,1900000
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2020,charging points,25
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2020,charging points,330
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2021,charging points,32
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2021,charging points,910
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2022,charging points,4100
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2022,charging points,6800
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2025,charging points,6000
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2025,charging points,66000
+India,Projection-STEPS,EV charging points,EV,Publicly available fast,2030,charging points,39000
+India,Projection-STEPS,EV charging points,EV,Publicly available slow,2030,charging points,260000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available fast,2020,charging points,22000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available slow,2020,charging points,76000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available fast,2021,charging points,28000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available slow,2021,charging points,130000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available fast,2022,charging points,36000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available slow,2022,charging points,230000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available fast,2025,charging points,110000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available slow,2025,charging points,390000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available fast,2030,charging points,310000
+Rest of the world,Projection-STEPS,EV charging points,EV,Publicly available slow,2030,charging points,830000
+USA,Projection-STEPS,EV charging points,EV,Publicly available fast,2020,charging points,17000
+USA,Projection-STEPS,EV charging points,EV,Publicly available slow,2020,charging points,82000
+USA,Projection-STEPS,EV charging points,EV,Publicly available fast,2021,charging points,22000
+USA,Projection-STEPS,EV charging points,EV,Publicly available slow,2021,charging points,92000
+USA,Projection-STEPS,EV charging points,EV,Publicly available fast,2022,charging points,28000
+USA,Projection-STEPS,EV charging points,EV,Publicly available slow,2022,charging points,100000
+USA,Projection-STEPS,EV charging points,EV,Publicly available fast,2025,charging points,130000
+USA,Projection-STEPS,EV charging points,EV,Publicly available slow,2025,charging points,420000
+USA,Projection-STEPS,EV charging points,EV,Publicly available fast,2030,charging points,380000
+USA,Projection-STEPS,EV charging points,EV,Publicly available slow,2030,charging points,1000000
+World,Projection-STEPS,EV charging points,EV,Publicly available fast,2020,charging points,380000
+World,Projection-STEPS,EV charging points,EV,Publicly available slow,2020,charging points,880000
+World,Projection-STEPS,EV charging points,EV,Publicly available fast,2021,charging points,570000
+World,Projection-STEPS,EV charging points,EV,Publicly available slow,2021,charging points,1200000
+World,Projection-STEPS,EV charging points,EV,Publicly available fast,2022,charging points,900000
+World,Projection-STEPS,EV charging points,EV,Publicly available slow,2022,charging points,1800000
+World,Projection-STEPS,EV charging points,EV,Publicly available fast,2025,charging points,2400000
+World,Projection-STEPS,EV charging points,EV,Publicly available slow,2025,charging points,4300000
+World,Projection-STEPS,EV charging points,EV,Publicly available fast,2030,charging points,4800000
+World,Projection-STEPS,EV charging points,EV,Publicly available slow,2030,charging points,7900000
