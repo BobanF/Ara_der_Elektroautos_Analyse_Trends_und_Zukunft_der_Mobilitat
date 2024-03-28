@@ -1,0 +1,271 @@
+region,category,parameter,mode,powertrain,year,unit,value
+China,Projection-APS,Electricity demand,Cars,EV,2020,GWh,13000
+China,Projection-APS,EV stock,Cars,PHEV,2020,Vehicles,990000
+China,Projection-APS,EV sales,Cars,BEV,2020,Vehicles,920000
+China,Projection-APS,EV stock,Cars,BEV,2020,Vehicles,3500000
+China,Projection-APS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.04600000008940697
+China,Projection-APS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",2800
+China,Projection-APS,EV stock share,Cars,EV,2020,percent,1.7999999523162842
+China,Projection-APS,EV sales share,Cars,EV,2020,percent,5.800000190734863
+China,Projection-APS,EV sales,Cars,PHEV,2020,Vehicles,220000
+China,Projection-APS,EV sales,Cars,PHEV,2021,Vehicles,550000
+China,Projection-APS,EV sales share,Cars,EV,2021,percent,16
+China,Projection-APS,EV stock share,Cars,EV,2021,percent,2.9000000953674316
+China,Projection-APS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.08900000154972076
+China,Projection-APS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",5300
+China,Projection-APS,EV stock,Cars,BEV,2021,Vehicles,6200000
+China,Projection-APS,EV sales,Cars,BEV,2021,Vehicles,2700000
+China,Projection-APS,EV stock,Cars,PHEV,2021,Vehicles,1600000
+China,Projection-APS,Electricity demand,Cars,EV,2021,GWh,22000
+China,Projection-APS,Electricity demand,Cars,EV,2022,GWh,25000
+China,Projection-APS,EV stock,Cars,PHEV,2022,Vehicles,3100000
+China,Projection-APS,EV sales,Cars,BEV,2022,Vehicles,4400000
+China,Projection-APS,EV stock,Cars,BEV,2022,Vehicles,11000000
+China,Projection-APS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.18000000715255737
+China,Projection-APS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",11000
+China,Projection-APS,EV stock share,Cars,EV,2022,percent,4.900000095367432
+China,Projection-APS,EV sales share,Cars,EV,2022,percent,29
+China,Projection-APS,EV sales,Cars,PHEV,2022,Vehicles,1500000
+China,Projection-APS,EV sales share,Cars,EV,2025,percent,45
+China,Projection-APS,EV stock share,Cars,EV,2025,percent,12
+China,Projection-APS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,0.5
+China,Projection-APS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",30000
+China,Projection-APS,EV sales,Cars,BEV,2025,Vehicles,7900000
+China,Projection-APS,EV sales,Cars,PHEV,2025,Vehicles,1800000
+China,Projection-APS,EV stock,Cars,BEV,2025,Vehicles,31000000
+China,Projection-APS,EV stock,Cars,PHEV,2025,Vehicles,8200000
+China,Projection-APS,Electricity demand,Cars,EV,2025,GWh,77000
+China,Projection-APS,Electricity demand,Cars,EV,2030,GWh,180000
+China,Projection-APS,EV sales,Cars,BEV,2030,Vehicles,12000000
+China,Projection-APS,EV sales,Cars,PHEV,2030,Vehicles,1300000
+China,Projection-APS,EV stock,Cars,BEV,2030,Vehicles,81000000
+China,Projection-APS,EV stock,Cars,PHEV,2030,Vehicles,16000000
+China,Projection-APS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,1.100000023841858
+China,Projection-APS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",65000
+China,Projection-APS,EV stock share,Cars,EV,2030,percent,24
+China,Projection-APS,EV sales share,Cars,EV,2030,percent,62
+Europe,Projection-APS,EV stock share,Cars,EV,2020,percent,0.9800000190734863
+Europe,Projection-APS,EV sales share,Cars,EV,2020,percent,10
+Europe,Projection-APS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.03099999949336052
+Europe,Projection-APS,Electricity demand,Cars,EV,2020,GWh,3900
+Europe,Projection-APS,EV sales,Cars,BEV,2020,Vehicles,750000
+Europe,Projection-APS,EV stock,Cars,BEV,2020,Vehicles,1800000
+Europe,Projection-APS,EV sales,Cars,PHEV,2020,Vehicles,630000
+Europe,Projection-APS,EV stock,Cars,PHEV,2020,Vehicles,1400000
+Europe,Projection-APS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",1800
+Europe,Projection-APS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.07199999690055847
+Europe,Projection-APS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",4200
+Europe,Projection-APS,EV stock,Cars,PHEV,2021,Vehicles,2500000
+Europe,Projection-APS,EV sales,Cars,PHEV,2021,Vehicles,1100000
+Europe,Projection-APS,EV stock,Cars,BEV,2021,Vehicles,3000000
+Europe,Projection-APS,EV sales,Cars,BEV,2021,Vehicles,1200000
+Europe,Projection-APS,Electricity demand,Cars,EV,2021,GWh,4000
+Europe,Projection-APS,EV sales share,Cars,EV,2021,percent,18
+Europe,Projection-APS,EV stock share,Cars,EV,2021,percent,1.7000000476837158
+Europe,Projection-APS,EV stock share,Cars,EV,2022,percent,2.4000000953674316
+Europe,Projection-APS,EV sales share,Cars,EV,2022,percent,21
+Europe,Projection-APS,Electricity demand,Cars,EV,2022,GWh,19000
+Europe,Projection-APS,EV sales,Cars,BEV,2022,Vehicles,1600000
+Europe,Projection-APS,EV stock,Cars,BEV,2022,Vehicles,4400000
+Europe,Projection-APS,EV sales,Cars,PHEV,2022,Vehicles,1000000
+Europe,Projection-APS,EV stock,Cars,PHEV,2022,Vehicles,3400000
+Europe,Projection-APS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.10000000149011612
+Europe,Projection-APS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",6100
+Europe,Projection-APS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,0.25999999046325684
+Europe,Projection-APS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",15000
+Europe,Projection-APS,Electricity demand,Cars,EV,2025,GWh,54000
+Europe,Projection-APS,EV sales share,Cars,EV,2025,percent,33
+Europe,Projection-APS,EV stock share,Cars,EV,2025,percent,7
+Europe,Projection-APS,EV sales,Cars,BEV,2025,Vehicles,3400000
+Europe,Projection-APS,EV sales,Cars,PHEV,2025,Vehicles,1900000
+Europe,Projection-APS,EV stock,Cars,BEV,2025,Vehicles,13000000
+Europe,Projection-APS,EV stock,Cars,PHEV,2025,Vehicles,8400000
+Europe,Projection-APS,EV sales,Cars,BEV,2030,Vehicles,7600000
+Europe,Projection-APS,EV sales,Cars,PHEV,2030,Vehicles,2700000
+Europe,Projection-APS,EV stock,Cars,BEV,2030,Vehicles,38000000
+Europe,Projection-APS,EV stock,Cars,PHEV,2030,Vehicles,19000000
+Europe,Projection-APS,EV stock share,Cars,EV,2030,percent,18
+Europe,Projection-APS,EV sales share,Cars,EV,2030,percent,64
+Europe,Projection-APS,Electricity demand,Cars,EV,2030,GWh,150000
+Europe,Projection-APS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,0.6000000238418579
+Europe,Projection-APS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",35000
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.00013000000035390258
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",7.699999809265137
+India,Projection-APS,EV sales,Cars,BEV,2020,Vehicles,3100
+India,Projection-APS,EV stock,Cars,BEV,2020,Vehicles,12000
+India,Projection-APS,EV sales,Cars,PHEV,2020,Vehicles,43
+India,Projection-APS,EV stock,Cars,PHEV,2020,Vehicles,50
+India,Projection-APS,Electricity demand,Cars,EV,2020,GWh,0.050999999046325684
+India,Projection-APS,EV sales share,Cars,EV,2020,percent,0.12999999523162842
+India,Projection-APS,EV stock share,Cars,EV,2020,percent,0.029999999329447746
+India,Projection-APS,EV stock share,Cars,EV,2021,percent,0.05900000035762787
+India,Projection-APS,EV sales share,Cars,EV,2021,percent,0.4000000059604645
+India,Projection-APS,Electricity demand,Cars,EV,2021,GWh,0.11999999731779099
+India,Projection-APS,EV stock,Cars,PHEV,2021,Vehicles,100
+India,Projection-APS,EV sales,Cars,PHEV,2021,Vehicles,50
+India,Projection-APS,EV stock,Cars,BEV,2021,Vehicles,23000
+India,Projection-APS,EV sales,Cars,BEV,2021,Vehicles,12000
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.00031999999191612005
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",18
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.0009899999713525176
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",57
+India,Projection-APS,EV sales,Cars,BEV,2022,Vehicles,48000
+India,Projection-APS,EV stock,Cars,BEV,2022,Vehicles,72000
+India,Projection-APS,EV sales,Cars,PHEV,2022,Vehicles,23
+India,Projection-APS,EV stock,Cars,PHEV,2022,Vehicles,120
+India,Projection-APS,Electricity demand,Cars,EV,2022,GWh,210
+India,Projection-APS,EV sales share,Cars,EV,2022,percent,1.5
+India,Projection-APS,EV stock share,Cars,EV,2022,percent,0.1599999964237213
+India,Projection-APS,EV stock share,Cars,EV,2025,percent,1
+India,Projection-APS,EV sales share,Cars,EV,2025,percent,10
+India,Projection-APS,Electricity demand,Cars,EV,2025,GWh,1800
+India,Projection-APS,EV sales,Cars,BEV,2025,Vehicles,340000
+India,Projection-APS,EV sales,Cars,PHEV,2025,Vehicles,9400
+India,Projection-APS,EV stock,Cars,BEV,2025,Vehicles,670000
+India,Projection-APS,EV stock,Cars,PHEV,2025,Vehicles,19000
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,0.00860000029206276
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",490
+India,Projection-APS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,0.0689999982714653
+India,Projection-APS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",4000
+India,Projection-APS,EV sales,Cars,BEV,2030,Vehicles,1900000
+India,Projection-APS,EV sales,Cars,PHEV,2030,Vehicles,21000
+India,Projection-APS,EV stock,Cars,BEV,2030,Vehicles,6500000
+India,Projection-APS,EV stock,Cars,PHEV,2030,Vehicles,120000
+India,Projection-APS,Electricity demand,Cars,EV,2030,GWh,16000
+India,Projection-APS,EV sales share,Cars,EV,2030,percent,32
+India,Projection-APS,EV stock share,Cars,EV,2030,percent,10
+Rest of the world,Projection-APS,EV sales share,Cars,EV,2020,percent,0.7099999785423279
+Rest of the world,Projection-APS,EV stock share,Cars,EV,2020,percent,0.1899999976158142
+Rest of the world,Projection-APS,Electricity demand,Cars,EV,2020,GWh,1800
+Rest of the world,Projection-APS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.010999999940395355
+Rest of the world,Projection-APS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",640
+Rest of the world,Projection-APS,EV sales,Cars,BEV,2020,Vehicles,100000
+Rest of the world,Projection-APS,EV stock,Cars,BEV,2020,Vehicles,430000
+Rest of the world,Projection-APS,EV sales,Cars,PHEV,2020,Vehicles,56000
+Rest of the world,Projection-APS,EV stock,Cars,PHEV,2020,Vehicles,320000
+Rest of the world,Projection-APS,EV stock,Cars,PHEV,2021,Vehicles,430000
+Rest of the world,Projection-APS,EV sales,Cars,PHEV,2021,Vehicles,110000
+Rest of the world,Projection-APS,EV stock,Cars,BEV,2021,Vehicles,630000
+Rest of the world,Projection-APS,EV sales,Cars,BEV,2021,Vehicles,200000
+Rest of the world,Projection-APS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.017999999225139618
+Rest of the world,Projection-APS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",1000
+Rest of the world,Projection-APS,Electricity demand,Cars,EV,2021,GWh,1900
+Rest of the world,Projection-APS,EV stock share,Cars,EV,2021,percent,0.27000001072883606
+Rest of the world,Projection-APS,EV sales share,Cars,EV,2021,percent,1.2999999523162842
+Rest of the world,Projection-APS,EV sales share,Cars,EV,2022,percent,2.200000047683716
+Rest of the world,Projection-APS,EV stock share,Cars,EV,2022,percent,0.38999998569488525
+Rest of the world,Projection-APS,Electricity demand,Cars,EV,2022,GWh,4900
+Rest of the world,Projection-APS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.032999999821186066
+Rest of the world,Projection-APS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",1900
+Rest of the world,Projection-APS,EV sales,Cars,BEV,2022,Vehicles,380000
+Rest of the world,Projection-APS,EV stock,Cars,BEV,2022,Vehicles,980000
+Rest of the world,Projection-APS,EV sales,Cars,PHEV,2022,Vehicles,130000
+Rest of the world,Projection-APS,EV stock,Cars,PHEV,2022,Vehicles,540000
+Rest of the world,Projection-APS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,0.10999999940395355
+Rest of the world,Projection-APS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",6400
+Rest of the world,Projection-APS,Electricity demand,Cars,EV,2025,GWh,19000
+Rest of the world,Projection-APS,EV stock share,Cars,EV,2025,percent,1
+Rest of the world,Projection-APS,EV sales share,Cars,EV,2025,percent,6
+Rest of the world,Projection-APS,EV sales,Cars,BEV,2025,Vehicles,1300000
+Rest of the world,Projection-APS,EV sales,Cars,PHEV,2025,Vehicles,530000
+Rest of the world,Projection-APS,EV stock,Cars,BEV,2025,Vehicles,3900000
+Rest of the world,Projection-APS,EV stock,Cars,PHEV,2025,Vehicles,1500000
+Rest of the world,Projection-APS,EV sales,Cars,BEV,2030,Vehicles,5100000
+Rest of the world,Projection-APS,EV sales,Cars,PHEV,2030,Vehicles,2400000
+Rest of the world,Projection-APS,EV stock,Cars,BEV,2030,Vehicles,20000000
+Rest of the world,Projection-APS,EV stock,Cars,PHEV,2030,Vehicles,9100000
+Rest of the world,Projection-APS,EV sales share,Cars,EV,2030,percent,19
+Rest of the world,Projection-APS,EV stock share,Cars,EV,2030,percent,6
+Rest of the world,Projection-APS,Electricity demand,Cars,EV,2030,GWh,110000
+Rest of the world,Projection-APS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,0.5799999833106995
+Rest of the world,Projection-APS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",33000
+USA,Projection-APS,EV stock,Cars,PHEV,2020,Vehicles,640000
+USA,Projection-APS,EV sales,Cars,BEV,2020,Vehicles,230000
+USA,Projection-APS,EV stock,Cars,BEV,2020,Vehicles,1100000
+USA,Projection-APS,EV sales,Cars,PHEV,2020,Vehicles,64000
+USA,Projection-APS,Electricity demand,Cars,EV,2020,GWh,5400
+USA,Projection-APS,EV sales share,Cars,EV,2020,percent,2.200000047683716
+USA,Projection-APS,EV stock share,Cars,EV,2020,percent,0.7699999809265137
+USA,Projection-APS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.0430000014603138
+USA,Projection-APS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",2500
+USA,Projection-APS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.0689999982714653
+USA,Projection-APS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",4000
+USA,Projection-APS,EV stock share,Cars,EV,2021,percent,0.949999988079071
+USA,Projection-APS,EV sales share,Cars,EV,2021,percent,4.5
+USA,Projection-APS,Electricity demand,Cars,EV,2021,GWh,6500
+USA,Projection-APS,EV sales,Cars,PHEV,2021,Vehicles,160000
+USA,Projection-APS,EV stock,Cars,BEV,2021,Vehicles,1500000
+USA,Projection-APS,EV sales,Cars,BEV,2021,Vehicles,470000
+USA,Projection-APS,EV stock,Cars,PHEV,2021,Vehicles,720000
+USA,Projection-APS,EV stock,Cars,PHEV,2022,Vehicles,860000
+USA,Projection-APS,EV sales,Cars,BEV,2022,Vehicles,800000
+USA,Projection-APS,EV stock,Cars,BEV,2022,Vehicles,2100000
+USA,Projection-APS,EV sales,Cars,PHEV,2022,Vehicles,190000
+USA,Projection-APS,Electricity demand,Cars,EV,2022,GWh,15000
+USA,Projection-APS,EV sales share,Cars,EV,2022,percent,7.699999809265137
+USA,Projection-APS,EV stock share,Cars,EV,2022,percent,1.2999999523162842
+USA,Projection-APS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.10999999940395355
+USA,Projection-APS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",6400
+USA,Projection-APS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,0.36000001430511475
+USA,Projection-APS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",21000
+USA,Projection-APS,EV stock share,Cars,EV,2025,percent,5
+USA,Projection-APS,EV sales share,Cars,EV,2025,percent,22
+USA,Projection-APS,Electricity demand,Cars,EV,2025,GWh,54000
+USA,Projection-APS,EV sales,Cars,BEV,2025,Vehicles,2900000
+USA,Projection-APS,EV sales,Cars,PHEV,2025,Vehicles,440000
+USA,Projection-APS,EV stock,Cars,BEV,2025,Vehicles,8600000
+USA,Projection-APS,EV stock,Cars,PHEV,2025,Vehicles,2000000
+USA,Projection-APS,Electricity demand,Cars,EV,2030,GWh,190000
+USA,Projection-APS,EV sales share,Cars,EV,2030,percent,50
+USA,Projection-APS,EV stock share,Cars,EV,2030,percent,16
+USA,Projection-APS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,1.100000023841858
+USA,Projection-APS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",62000
+USA,Projection-APS,EV sales,Cars,BEV,2030,Vehicles,6800000
+USA,Projection-APS,EV sales,Cars,PHEV,2030,Vehicles,950000
+USA,Projection-APS,EV stock,Cars,BEV,2030,Vehicles,33000000
+USA,Projection-APS,EV stock,Cars,PHEV,2030,Vehicles,5600000
+World,Projection-APS,EV sales,Cars,BEV,2020,Vehicles,2000000
+World,Projection-APS,EV stock,Cars,BEV,2020,Vehicles,6800000
+World,Projection-APS,EV sales,Cars,PHEV,2020,Vehicles,970000
+World,Projection-APS,EV stock,Cars,PHEV,2020,Vehicles,3400000
+World,Projection-APS,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.12999999523162842
+World,Projection-APS,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",7700
+World,Projection-APS,EV sales share,Cars,EV,2020,percent,4.199999809265137
+World,Projection-APS,Electricity demand,Cars,EV,2020,GWh,24000
+World,Projection-APS,EV stock share,Cars,EV,2020,percent,0.8299999833106995
+World,Projection-APS,EV stock share,Cars,EV,2021,percent,1.2999999523162842
+World,Projection-APS,Electricity demand,Cars,EV,2021,GWh,34000
+World,Projection-APS,EV sales share,Cars,EV,2021,percent,8.699999809265137
+World,Projection-APS,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.25
+World,Projection-APS,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",15000
+World,Projection-APS,EV stock,Cars,PHEV,2021,Vehicles,5200000
+World,Projection-APS,EV sales,Cars,PHEV,2021,Vehicles,1900000
+World,Projection-APS,EV stock,Cars,BEV,2021,Vehicles,11000000
+World,Projection-APS,EV sales,Cars,BEV,2021,Vehicles,4600000
+World,Projection-APS,EV sales,Cars,BEV,2022,Vehicles,7300000
+World,Projection-APS,EV stock,Cars,BEV,2022,Vehicles,18000000
+World,Projection-APS,EV stock,Cars,PHEV,2022,Vehicles,7900000
+World,Projection-APS,EV sales,Cars,PHEV,2022,Vehicles,2900000
+World,Projection-APS,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.4300000071525574
+World,Projection-APS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",25000
+World,Projection-APS,EV sales share,Cars,EV,2022,percent,14
+World,Projection-APS,Electricity demand,Cars,EV,2022,GWh,65000
+World,Projection-APS,EV stock share,Cars,EV,2022,percent,2.0999999046325684
+World,Projection-APS,EV stock share,Cars,EV,2025,percent,6
+World,Projection-APS,Electricity demand,Cars,EV,2025,GWh,210000
+World,Projection-APS,EV sales share,Cars,EV,2025,percent,24
+World,Projection-APS,Oil displacement Mbd,Cars,EV,2025,Milion barrels per day,1.2000000476837158
+World,Projection-APS,"Oil displacement, million lge",Cars,EV,2025,"Oil displacement, million lge",73000
+World,Projection-APS,EV sales,Cars,BEV,2025,Vehicles,16000000
+World,Projection-APS,EV sales,Cars,PHEV,2025,Vehicles,4700000
+World,Projection-APS,EV stock,Cars,BEV,2025,Vehicles,57000000
+World,Projection-APS,EV stock,Cars,PHEV,2025,Vehicles,20000000
+World,Projection-APS,EV sales,Cars,BEV,2030,Vehicles,33000000
+World,Projection-APS,EV sales,Cars,PHEV,2030,Vehicles,7400000
+World,Projection-APS,EV stock,Cars,BEV,2030,Vehicles,180000000
+World,Projection-APS,EV stock,Cars,PHEV,2030,Vehicles,50000000
+World,Projection-APS,EV sales share,Cars,EV,2030,percent,41
+World,Projection-APS,Electricity demand,Cars,EV,2030,GWh,640000
+World,Projection-APS,EV stock share,Cars,EV,2030,percent,15
+World,Projection-APS,Oil displacement Mbd,Cars,EV,2030,Milion barrels per day,3.4000000953674316
+World,Projection-APS,"Oil displacement, million lge",Cars,EV,2030,"Oil displacement, million lge",200000
